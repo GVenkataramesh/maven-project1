@@ -3,8 +3,8 @@ MAINTAINER gvenkataramesh <gvr69999@gmail.com>
 RUN apt-get update -y
 RUN touch /opt/file1
 RUN apt-get install git -y
-RUN git config --global user.name "gvenkataramesh"
-RUN git config --global user.email "gvr69999@gmail.com"
+RUN git config --global user.name "gvramesh"
+RUN git config --global user.email "gvr6999@gmail.com"
 RUN cd /opt && git clone https://github.com/GVenkataramesh/Batch-85.git
 #RUN yum install java -y
 #RUN yum install maven -y

@@ -3,9 +3,9 @@ MAINTAINER devops2018 <devopstraining2015@gmail.com>
 RUN apt-get update -y
 RUN touch /opt/file1
 RUN apt-get install git -y
-RUN git config --global user.name "GVRAMESH"
-RUN git config --global user.email "gvr6999@gmail.com"
-RUN cd /opt && git clone https://github.com/GVenkataramesh/Batch083.git
+RUN git config --global user.name "DevOps Training"
+RUN git config --global user.email "polarapuprasad@gmail.com"
+RUN cd /opt && git clone https:github.com/polarapu/batch68.git
 #RUN yum install java 
 #RUN yum install maven -y
 #RUN yum install wget -y

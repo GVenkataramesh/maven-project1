@@ -5,7 +5,7 @@ RUN touch /opt/file1
 RUN apt-get install git -y
 RUN git config --global user.name "gvramesh"
 RUN git config --global user.email "gvr69999@gmail.com"
-#RUN cd /opt && git clone https:github.com/polarapu/batch68.git
+#RUN cd /opt && git clone https://github.com/GVenkataramesh/Batch02.git
 #RUN yum install java 
 #RUN yum install maven -y
 #RUN yum install wget -y

@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops84</finalName>
+    <finalName>gvrdocker</finalName>
   </build>
 </project>
